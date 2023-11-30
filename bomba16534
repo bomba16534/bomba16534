@@ -4,7 +4,7 @@ mod HelloStarknet {
     use starknet::ContractAddress;
 
 
-    #[event]
+    #[event] //zalupa
     fn Hello(from: ContractAddress, value: felt252) {}
 
 
