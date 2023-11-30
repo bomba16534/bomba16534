@@ -3,7 +3,7 @@ mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
 /*
-* cvc
+* cvc done
 */
 
     #[event]
