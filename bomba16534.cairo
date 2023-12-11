@@ -1,5 +1,5 @@
 /*
-* chto-nebud 2.0
+* chto-nebud 
 */
 
 
